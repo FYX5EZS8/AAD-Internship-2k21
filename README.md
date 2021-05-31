@@ -1,5 +1,3 @@
-
-
 # AAD-Internship-2k21
 
 # Android Application Development - Syllabus
@@ -76,3 +74,5 @@ Microphone and Speakers facility for Offline training program.
 - All Faculty/student who have JAVA Knowledge are eligible.
 ### Mode Of Training :
 - Online (Via GoToMeeting / Google Meet / Microsoft Teams)
+
+
